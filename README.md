@@ -2,7 +2,7 @@
 
 <a href="https://github.com/akex4963">
  <picture >
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.liuli.lol/api?username=akex4396&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats.liuli.lol/api?username=akex4396&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
     <img  align="right" src="https://github-stats.liuli.lol/api?username=akex4396&theme=vue&show_icons=true&include_all_commits=true&count_private=true">
   </picture>
 </a>
@@ -28,11 +28,10 @@
  
 <br/>
 
-<p style="text-align:center"> <b>Visitors</b> <br> <img src="https://profile-counter.glitch.me/akex4396/count.svg" />
-  <br/>
+<p style="text-align:center" align="center"> <b>Visitors</b> <br> <img src="https://profile-counter.glitch.me/akex4396/count.svg" />
   <br/>
 
-<section style="display:flex;width:100%;gap:10px;justify-content:space-between;">
+<section>
 <div style="border-radius: 5px;flex:3;
   box-shadow: 0 0 3px 1px #ffffff50;">
 
