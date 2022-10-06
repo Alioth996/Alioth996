@@ -31,7 +31,7 @@
 <p style="text-align:center" align="center"> <b>Visitors</b> <br> <img src="https://profile-counter.glitch.me/akex4396/count.svg" />
   <br/>
 
-<div >
+<div style="display:inline-block">
 
 ### ☎️ Find me
 
@@ -41,7 +41,7 @@
 - <img src="./icons/yuque.svg"> [语雀](https://www.yuque.com/akex)
 </div>
 
-<div align="right" style="text-align:left;">
+<div align="right" style="text-align:left;display:inline-block">
   
 ### 💖 Sponsor
 
