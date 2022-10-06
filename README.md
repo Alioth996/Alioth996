@@ -41,7 +41,7 @@
 - <img src="./icons/yuque.svg"> [语雀](https://www.yuque.com/akex)
 </div>
 
-<div align="right">
+<div align="right" style="text-align:left;">
   
 ### 💖 Sponsor
 
