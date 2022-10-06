@@ -44,7 +44,8 @@
 
 &nbsp; If my code has helped you, please consider [sponsoring me](https://github.com/sponsors/akex4396).
 
-- <img src="./icons/sponsor.svg"> [GitHub Sponsor](https://github.com/sponsors/akex4396)
+<img src="./icons/sponsor.svg"> [GitHub Sponsor](https://github.com/sponsors/akex4396)
+
 </div>
 
 <br/>
