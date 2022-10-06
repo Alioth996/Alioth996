@@ -24,7 +24,9 @@
   </p>
  </div>
  
-<p style="text-align:center" align="center"> <b>Visitors</b> <br> <img src="https://profile-counter.glitch.me/akex4396/count.svg" />
+ ### <center>Visitors</center>
+
+<p style="text-align:center" align="center"> <br> <img src="https://profile-counter.glitch.me/akex4396/count.svg" />
 
 ### ☎️ Find me
 
