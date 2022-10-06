@@ -11,7 +11,7 @@
 
 ### **About**
 
- <p style="display:flex;align-item:center;"> <img src="./icons/fe.svg"/>&nbsp; A Front-End Beginner(Buger)</p>
+ <p style="display:flex;align-item:center;"> <img src="./icons/fe.svg"/>&nbsp; A Front-End &nbsp;<strike>Beginner</strike> &nbsp;<img src="./icons/bug.svg"><u>Buger</u>  </p>
  <p style="display:flex;align-item:center;"> <img src="./icons/music.svg"/>&nbsp;  喜欢民乐</p>
  <p style="display:flex;align-item:center;"> <img src="./icons/jian.svg"/>&nbsp; 喜欢仙剑</p>
  <p style="display:flex;align-item:center;"> <img src="./icons/sport.svg"/>&nbsp; 喜欢健身</p>
