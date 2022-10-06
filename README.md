@@ -31,17 +31,14 @@
 <p style="text-align:center" align="center"> <b>Visitors</b> <br> <img src="https://profile-counter.glitch.me/akex4396/count.svg" />
   <br/>
 
-<div style="float:left;">
-
 ### ☎️ Find me
 
 - <img src="./icons/mail.svg"> [Email](mailto:2844520415@qq.com)
 - <img src="./icons/bilibili.svg"> [Bilibili](https://space.bilibili.com/188042974)
 - <img src="./icons/article.svg"> [Blog](https:://www.baidu.com)
 - <img src="./icons/yuque.svg"> [语雀](https://www.yuque.com/akex)
-</div>
 
-<div align="right" style="float:right;">
+<div align="center">
   
 ### 💖 Sponsor
 
