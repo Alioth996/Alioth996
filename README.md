@@ -43,13 +43,14 @@
 
 </div>
 
+<div align="right" style="display:flex;gap:20px">
+
 ### <img src="./icons/icon-book.svg"> **Learning**
 
-<P align="right" style="display:flex;gap:20px">
 <img src="./icons/nuxt-dot-js.svg"> 
  <img src="./icons/nextjs-logo.png" height="32" width="32"> <img src="./icons/vite.png" height="32" width="32"> <img src="./icons/redis.svg">  <img src="./icons/mse.svg">  <img src="./icons/cloud-machine.svg">
 
-</P>
+</div>
 
 ### 𝗦𝘁𝗮𝘁𝘀
 
