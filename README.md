@@ -43,7 +43,7 @@
 
 </div>
 
-<div align="right" style="display:flex;gap:20px">
+<div align="right" style="display:flex;">
 
 ### <img src="./icons/icon-book.svg"> **Learning**
 
