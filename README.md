@@ -48,7 +48,7 @@
 ### <img src="./icons/icon-book.svg"> **Learning**
 
 <img src="./icons/nuxt-dot-js.svg"> 
- <img src="./icons/nextjs-logo.png" height="32" width="32"> <img src="./icons/vite.png" height="32" width="32"> <img src="./icons/redis.svg">  <img src="./icons/mse.svg">  <img src="./icons/cloud-machine.svg">
+ <img src="./icons/nextjs-logo.png" height="32" width="32" style="margin:0 10px"> <img src="./icons/vite.png"  style="margin:0 10px" height="32" width="32"> <img src="./icons/redis.svg"  style="margin:0 10px">  <img src="./icons/mse.svg"  style="margin:0 10px">  <img src="./icons/cloud-machine.svg">
 
 </div>
 
