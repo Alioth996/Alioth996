@@ -1,0 +1,7 @@
+p {
+  border-radius: 3px;
+  box-shadow: 0 0 2px 5px 3px #ffffff30;
+
+  justify-content: space-between;
+  vertical-align: auto;
+}
