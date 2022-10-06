@@ -1,6 +1,6 @@
 <h1 align="center"> Hello! 👋  I'm <a href="https://github.com/akex4963">akex4963 or 凌天</a>!</h1>
 
-<a href="https://github.com/akex4963">
+<a href="https://github.com/akex4396">
  <picture >
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.liuli.lol/api?username=akex4396&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
     <img  align="right" src="https://github-stats.liuli.lol/api?username=akex4396&theme=vue&show_icons=true&include_all_commits=true&count_private=true">
