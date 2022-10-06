@@ -26,10 +26,7 @@
   </p>
  </div>
  
-<br/>
-
 <p style="text-align:center" align="center"> <b>Visitors</b> <br> <img src="https://profile-counter.glitch.me/akex4396/count.svg" />
-  <br/>
 
 ### ☎️ Find me
 
@@ -47,8 +44,6 @@
 <img src="./icons/sponsor.svg"> [GitHub Sponsor](https://github.com/sponsors/akex4396)
 
 </div>
-
-<br/>
 
 ### <img src="./icons/icon-book.svg"> **Learning**
 
