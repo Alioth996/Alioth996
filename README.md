@@ -38,7 +38,7 @@
 - <img src="./icons/article.svg"> [Blog](https:://www.baidu.com)
 - <img src="./icons/yuque.svg"> [语雀](https://www.yuque.com/akex)
 
-<div align="center">
+<div align="center" style="text-align:left;">
   
 ### 💖 Sponsor
 
