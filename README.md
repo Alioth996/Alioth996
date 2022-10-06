@@ -3,9 +3,9 @@
 
 <br/>
 
-<div style='display:flex;gap:5px'>
+<div >
  <img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7533b92fb76d499b9a7e713ff3057af2~tplv-k3u1fbpfcp-zoom-1.image" height='200'>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=akex4396&theme=radical" width="300" height='100';/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=akex4396&theme=radical" width="350"/>
 </div>
  <br/>
 
