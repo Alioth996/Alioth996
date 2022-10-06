@@ -2,7 +2,7 @@
 
 <a href="https://github.com/akex4963">
  <picture >
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats.liuli.lol/api?username=akex4396&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.liuli.lol/api?username=akex4396&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
     <img  align="right" src="https://github-stats.liuli.lol/api?username=akex4396&theme=vue&show_icons=true&include_all_commits=true&count_private=true">
   </picture>
 </a>
@@ -31,9 +31,7 @@
 <p style="text-align:center" align="center"> <b>Visitors</b> <br> <img src="https://profile-counter.glitch.me/akex4396/count.svg" />
   <br/>
 
-<section>
-<div style="border-radius: 5px;flex:3;
-  box-shadow: 0 0 3px 1px #ffffff50;">
+<div >
 
 ### ☎️ Find me
 
@@ -43,8 +41,7 @@
 - <img src="./icons/yuque.svg"> [语雀](https://www.yuque.com/akex)
 </div>
 
-<div style="flex:7;text-align:left; border-radius: 5px;
-  box-shadow: 0 0 3px 1px #ffffff50;">
+<div align="right">
   
 ### 💖 Sponsor
 
@@ -52,8 +49,6 @@
 
 - <img src="./icons/sponsor.svg"> [GitHub Sponsor](https://github.com/sponsors/akex4396)
 </div>
-
-</section>
 
 <br/>
 
@@ -68,7 +63,7 @@
 
 ### 𝗦𝘁𝗮𝘁𝘀
 
-<div style="display:flex;width:100%;gap:10px;justify-content:space-between;">
+<div>
  <img height="230" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7533b92fb76d499b9a7e713ff3057af2~tplv-k3u1fbpfcp-zoom-1.image" >
   <img height="230" src="https://github-readme-streak-stats.herokuapp.com/?user=akex4396&theme=radical" />
 <br/>
