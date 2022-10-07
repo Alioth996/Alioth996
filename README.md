@@ -28,10 +28,10 @@
 
 ### ☎️ Find me
 
-- <img src="./icons/mail.svg"> [Email](mailto:2844520415@qq.com){:target="_blank"}
-- <img src="./icons/bilibili.svg"> [Bilibili](https://space.bilibili.com/188042974){:target="_blank"}
-- <img src="./icons/article.svg"> [Blog](http://akexc.com/){:target="_blank"}
-- <img src="./icons/yuque.svg"> [语雀](https://www.yuque.com/akex){:target="_blank"}
+- <img src="./icons/mail.svg"> [Email](mailto:2844520415@qq.com)
+- <img src="./icons/bilibili.svg"> [Bilibili](https://space.bilibili.com/188042974)
+- <img src="./icons/article.svg"> [Blog](http://akexc.com/)
+- <img src="./icons/yuque.svg"> [语雀](https://www.yuque.com/akex)
 
 <div align="center" style="text-align:left;">
   
