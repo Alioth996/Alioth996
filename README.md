@@ -10,6 +10,7 @@
 <div >
 
 <br/>
+
 ### **About**
 
  <p style="display:flex;align-item:center;"> <img src="./icons/fe.svg"/>&nbsp; A Front-End &nbsp;<strike>Beginner</strike> &nbsp;<img src="./icons/bug.svg"><u>Buger</u>  </p>
