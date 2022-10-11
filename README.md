@@ -55,8 +55,7 @@
 
 ### 𝗦𝘁𝗮𝘁𝘀
 
-<div>
- <img height="230" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7533b92fb76d499b9a7e713ff3057af2~tplv-k3u1fbpfcp-zoom-1.image" >
- ![akex4396's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=akex4396&show_icons=true&count_private=true&theme=gotham)
-  <img height="230" src="https://github-readme-streak-stats.herokuapp.com/?user=akex4396&theme=radical" />
-</div>
+ ![Metrics](https://metrics.lecoq.io/akex4396?template=terminal&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FShanghai)
+ 
+ <img height="230" src="https://github-readme-streak-stats.herokuapp.com/?user=akex4396&theme=radical" />
+
