@@ -24,11 +24,6 @@
  
 <p style="text-align:center" align="center"> <b>Visitors</b> <br> <img src="https://profile-counter.glitch.me/akex4396/count.svg" />
 
-### ☎️ Find me
-
-- <img src="./icons/mail.svg"> [Email](mailto:2844520415@qq.com)
-- <img src="./icons/article.svg"> [Blog](http://akexc.com/)
-
  <img height="230" src="https://github-readme-streak-stats.herokuapp.com/?user=akex4396&theme=radical"/>
 
 
