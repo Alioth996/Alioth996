@@ -15,9 +15,6 @@
 
  <p style="display:flex;align-item:center;"> <img src="./icons/fe.svg"/>&nbsp; A Front-End &nbsp;<strike>Beginner</strike> &nbsp;<img src="./icons/bug.svg"><u>Buger</u>  </p>
  <p style="display:flex;align-item:center;"> <img src="./icons/music.svg"/>&nbsp;  喜欢民乐</p>
- <p style="display:flex;align-item:center;"> <img src="./icons/jian.svg"/>&nbsp; 喜欢仙剑</p>
- <p style="display:flex;align-item:center;"> <img src="./icons/sport.svg"/>&nbsp; 喜欢健身</p>
- <p style="display:flex;align-item:center;"> <img src="./icons/dizi.svg"/>&nbsp; 耍点笛箫</p>
 
    <p>
   <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> <code><img height="20" alt="golang" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/go/go.png"></code> <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
@@ -30,19 +27,7 @@
 ### ☎️ Find me
 
 - <img src="./icons/mail.svg"> [Email](mailto:2844520415@qq.com)
-- <img src="./icons/bilibili.svg"> [Bilibili](https://space.bilibili.com/188042974)
 - <img src="./icons/article.svg"> [Blog](http://akexc.com/)
-- <img src="./icons/yuque.svg"> [语雀](https://www.yuque.com/akex)
-
-<div align="center" style="text-align:left;">
-  
-### 💖 Sponsor
-
-&nbsp; If my code has helped you, please consider [sponsoring me](https://github.com/sponsors/akex4396).
-
-<img src="./icons/sponsor.svg"> [GitHub Sponsor](https://github.com/sponsors/akex4396)
-
-</div>
 
 <div align="right" style="display:flex;">
 
