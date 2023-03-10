@@ -1,7 +1,7 @@
 <p align="center"> Hi! I'm <a href="https://github.com/akex4963">玉衡Alioth</a></h3>
 Not a web worker just amateur
 
-#### skills stack
+### Skills
 
 + Vue.js
 + TypeScript
