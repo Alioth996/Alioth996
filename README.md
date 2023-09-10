@@ -5,12 +5,11 @@ Not a web worker just amateur
 
 ### Skills
 
-+ Vue.js
++ Vue
 + TypeScript
 + Express/Koa
-+ Golang
-+ ...
-
++ Electron
++ React
  <img height="230" src="https://github-readme-streak-stats.herokuapp.com/?user=Alioth996&theme=radical"/>
 
 
