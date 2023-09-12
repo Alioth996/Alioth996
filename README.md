@@ -9,7 +9,6 @@ Not a web worker just amateur
 + TypeScript
 + Express/Koa
 + Electron
-+ React
  <img height="230" src="https://github-readme-streak-stats.herokuapp.com/?user=Alioth996&theme=radical"/>
 
 
